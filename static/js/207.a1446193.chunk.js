@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkrick_and_morty=self.webpackChunkrick_and_morty||[]).push([[207],{207:function(r,e,n){n.r(e);n(791);var a=n(184);e.default=function(){return(0,a.jsx)("div",{children:"CharacterPage"})}}}]);
-//# sourceMappingURL=207.a1446193.chunk.js.map
