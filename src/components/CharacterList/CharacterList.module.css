@@ -1,0 +1,33 @@
+.cardStyle {
+  width: 240px;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 4px rgba(0, 0, 0, 0.12),
+    0px 2px 4px rgba(0, 0, 0, 0.14);
+  border-radius: 4px;
+}
+
+.titleStyle {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  padding-left: 16px;
+  letter-spacing: 0.15px;
+  color: rgba(0, 0, 0, 0.87);
+  mix-blend-mode: normal;
+  margin-top: 12px;
+  margin-bottom: 1px;
+}
+
+.specieStyle {
+  font-style: normal;
+  font-weight: 400;
+  padding-left: 16px;
+  padding-bottom: 12px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  letter-spacing: 0.25px;
+  color: rgba(0, 0, 0, 0.6);
+  mix-blend-mode: normal;
+}
