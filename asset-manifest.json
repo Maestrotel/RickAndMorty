@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/rick-and-morty/static/css/main.9e398ebe.css",
-    "main.js": "/rick-and-morty/static/js/main.ae20aacd.js",
-    "static/css/445.c4999188.chunk.css": "/rick-and-morty/static/css/445.c4999188.chunk.css",
-    "static/js/445.f51ab393.chunk.js": "/rick-and-morty/static/js/445.f51ab393.chunk.js",
+    "main.js": "/rick-and-morty/static/js/main.eb080352.js",
+    "static/css/445.40d631c0.chunk.css": "/rick-and-morty/static/css/445.40d631c0.chunk.css",
+    "static/js/445.7f22f169.chunk.js": "/rick-and-morty/static/js/445.7f22f169.chunk.js",
     "static/css/966.ad11f7e1.chunk.css": "/rick-and-morty/static/css/966.ad11f7e1.chunk.css",
     "static/js/966.615925c0.chunk.js": "/rick-and-morty/static/js/966.615925c0.chunk.js",
     "static/js/794.0b112259.chunk.js": "/rick-and-morty/static/js/794.0b112259.chunk.js",
@@ -13,15 +13,15 @@
     "index.html": "/rick-and-morty/index.html",
     "static/media/search.svg": "/rick-and-morty/static/media/search.c77a50f238257623b5e066b03e852c00.svg",
     "main.9e398ebe.css.map": "/rick-and-morty/static/css/main.9e398ebe.css.map",
-    "main.ae20aacd.js.map": "/rick-and-morty/static/js/main.ae20aacd.js.map",
-    "445.c4999188.chunk.css.map": "/rick-and-morty/static/css/445.c4999188.chunk.css.map",
-    "445.f51ab393.chunk.js.map": "/rick-and-morty/static/js/445.f51ab393.chunk.js.map",
+    "main.eb080352.js.map": "/rick-and-morty/static/js/main.eb080352.js.map",
+    "445.40d631c0.chunk.css.map": "/rick-and-morty/static/css/445.40d631c0.chunk.css.map",
+    "445.7f22f169.chunk.js.map": "/rick-and-morty/static/js/445.7f22f169.chunk.js.map",
     "966.ad11f7e1.chunk.css.map": "/rick-and-morty/static/css/966.ad11f7e1.chunk.css.map",
     "966.615925c0.chunk.js.map": "/rick-and-morty/static/js/966.615925c0.chunk.js.map",
     "794.0b112259.chunk.js.map": "/rick-and-morty/static/js/794.0b112259.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e398ebe.css",
-    "static/js/main.ae20aacd.js"
+    "static/js/main.eb080352.js"
   ]
 }
