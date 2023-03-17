@@ -5,7 +5,7 @@ import css from './CharacterList.module.css';
 function CharacterList() {
   return (
     <>
-      <ul>
+      <ul className={css.cardList}>
         {/* {Array.isArray(movieCast) &&
           movieCast?.map(({ id, name, profile_path }) => {
             return ( */}

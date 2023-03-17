@@ -7,9 +7,9 @@ import css from './HomePage.module.css';
 
 function HomePage() {
   return (
-    <div>
+    <div className={css.container}>
       <div>
-        <img src={banner} alt="rick-and-morty" />
+        <img src={banner} alt="rick-and-morty" className={css.styleBanner} />
       </div>
       <div>
         <form className={css.searchPanel}>

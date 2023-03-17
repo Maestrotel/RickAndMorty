@@ -1,6 +1,21 @@
-.inputStyle {
+.container {
   width: 1020px;
+  margin-top: 86px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.styleBanner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 16px;
+}
+
+.inputStyle {
+  width: 980px;
   padding: 16px 0px 16px 48px;
+  margin-bottom: 50px;
   border: 1px solid rgba(0, 0, 0, 0.5);
   border-radius: 8px;
   font-family: 'Roboto';
@@ -19,4 +34,5 @@
 
 .searchPanel {
   position: relative;
+  /* width: 1020px; */
 }
