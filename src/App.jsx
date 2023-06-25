@@ -22,6 +22,7 @@ const App = () => {
             <Route path="/character" element={<CharacterPage />} />
             <Route path="*" element={<NotFoundPage />} />
             {/* <Route path="/movies/:movieId/*" element={<DetailsMoviePage />} /> */}
+            {/* details */}
           </Routes>
         </Suspense>
       </div>
